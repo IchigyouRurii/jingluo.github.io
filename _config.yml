@@ -119,12 +119,12 @@ author:
   location         : "Shenzhen"
   email            :
   links:
-    - label: "Email"
-      icon: "fa-solid fa-envelope"
-      url: "luojing0713@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "luojing0713@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
