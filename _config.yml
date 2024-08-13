@@ -115,12 +115,12 @@ analytics:
 author:
   name             : "Jing Luo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : ""
   location         : "Shenzhen"
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa-solid fa-envelope"
       url: "luojing0713@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -138,7 +138,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Google Scholar"
-      icon: "fa-solid fa-book-open-cover"
+      icon: ""fas fa-fw fa-graduation-cap""
       url: "https://scholar.google.com/citations?hl=en&user=oScK2jAAAAAJ"
 
 # Site Footer
