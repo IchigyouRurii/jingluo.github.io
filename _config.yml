@@ -123,7 +123,7 @@ author:
       icon: "fa-solid fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=oScK2jAAAAAJ"
     - label: "CV"
-      icon: "fa-solid fa-file"
+      icon: "fas fa-fw fa-file-pdf"
       url: "/CV.pdf"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
