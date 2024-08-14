@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jing Luo"
-  avatar           : "/picture2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/picture1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NLP Researcher"
   location         : "Shenzhen"
   email            : "luojing0713@gmail.com"
@@ -125,6 +125,9 @@ author:
     - label: "CV"
       icon: "fa-solid fa-file"
       url: "/CV.pdf"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://scholar.google.com/citations?hl=en&user=oScK2jAAAAAJ"
 # Site Footer
 footer:
   links:
