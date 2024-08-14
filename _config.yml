@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jing Luo"
+  name             : "Jing Luo（骆晶）"
   avatar           : "/picture1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NLP Researcher"
   location         : "Shenzhen"
@@ -306,6 +306,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      
+  - scope:
+      path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
