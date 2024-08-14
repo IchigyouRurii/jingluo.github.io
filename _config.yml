@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jing Luo（骆晶）"
-  avatar           : "/picture1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "image/picture1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NLP Researcher"
   location         : "Shenzhen"
   email            : "luojing0713@gmail.com"
@@ -127,7 +127,7 @@ author:
       url: "https://github.com/IchigyouRurii"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/CV.pdf"
+      url: "mydocs/CV.pdf"
       
 # Site Footer
 footer:
