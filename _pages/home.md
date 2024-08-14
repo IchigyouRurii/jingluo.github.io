@@ -1,7 +1,6 @@
 ---
-title:  "About Me"
-layout: archive
-permalink: /about/
+layout: single
+permalink: /
 author_profile: true
 comments: true
 ---
