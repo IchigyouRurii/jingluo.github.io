@@ -8,7 +8,18 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__lead {
-  font-family: $global-font-family;
-  font-size: $type-size-2;
+html {
+  font-size: 12px; 
+
+  @include breakpoint($medium) {
+    font-size: 18px; 
+  }
+
+  @include breakpoint($large) {
+    font-size: 20px; 
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 22px; 
+  }
 }
