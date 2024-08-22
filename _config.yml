@@ -124,9 +124,9 @@ author:
   links:
     - label: "Google Scholar"
       icon: "fa-solid fa-graduation-cap"
-      url: "https://scholar.google.com/citations?hl=en&user=oScK2jAAAAAJ"
+      # url: "https://scholar.google.com/citations?hl=en&user=oScK2jAAAAAJ"
     - label: "GitHub"
-      icon: "fa-brands fa-square-github"
+      # icon: "fa-brands fa-square-github"
       url: "https://github.com/IchigyouRurii"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
