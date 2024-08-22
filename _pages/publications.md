@@ -3,6 +3,7 @@ layout: single
 permalink: /publications/
 author_profile: true
 comments: true
+title: Publications
 ---
 
 ### Investigating the Impact of Model Complexity in Large Language Models
