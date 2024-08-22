@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 comments: true
 ---
