@@ -117,7 +117,10 @@ author:
   avatar           : "image/picture1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NLP Researcher"
   location         : "Shenzhen"
+  github           : "huiyuan-Wang"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=oScK2jAAAAAJ"
   email            : "luojing0713@gmail.com"
+  
   links:
     - label: "Google Scholar"
       icon: "fa-solid fa-graduation-cap"
