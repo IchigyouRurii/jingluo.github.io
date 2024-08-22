@@ -5,7 +5,6 @@ author_profile: true
 comments: true
 ---
 
-\
 ### Investigating the Impact of Model Complexity in Large Language Models
 **Jing Luo**, Huiyuan Wang, Weiran Huang\
 _Preprint_, 2023\
