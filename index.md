@@ -17,4 +17,4 @@ author_profile: true
 <br/>
 <br/>
 <br/>
-<body><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zc-nXOXO-kwdWy4YllqtPav2rGgteTLCu4N6uas8K4I&cl=ffffff&w=50"></script></body>
+<body><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zc-nXOXO-kwdWy4YllqtPav2rGgteTLCu4N6uas8K4I&cl=ffffff&w=300"></script></body>
