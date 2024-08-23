@@ -16,13 +16,6 @@ author_profile: true
 [2022.11] National second prize in China Undergraduate Mathematical Contest in Modeling
 
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <body><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zc-nXOXO-kwdWy4YllqtPav2rGgteTLCu4N6uas8K4I&cl=ffffff&w=300"></script></body>
