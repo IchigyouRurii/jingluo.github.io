@@ -14,4 +14,4 @@ author_profile: true
 <br/>
 <br/>
 <br/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=zc-nXOXO-kwdWy4YllqtPav2rGgteTLCu4N6uas8K4I&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<body><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zc-nXOXO-kwdWy4YllqtPav2rGgteTLCu4N6uas8K4I&cl=ffffff&w=a"></script></body>
