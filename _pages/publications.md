@@ -14,7 +14,7 @@ _Preprint_, 2023\
 
 ### API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access
 Jiayuan Su, **Jing Luo**, Hongwei Wang, Lu Cheng\
-_Preprint_, 2024\
+_EMNLP 2024 Findings_\
 [paper](https://arxiv.org/abs/2403.01216)
 
 ### Oil price forecasting: A hybrid GRU neural network based on decomposition-reconstruction methods
