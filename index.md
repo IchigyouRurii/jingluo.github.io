@@ -7,7 +7,7 @@ author_profile: true
 <br/>Welcome to my personal website! I am currently a research assistant at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), where I work under the supervision of Prof. [Min Yang](https://minyang.me/). Previously, I earned my bachelor's degree in Mathematics from Shandong University. My primary research interests lie in the field of Natural Language Processing (NLP).
 
 ## News
-\[2024.09\] One paper has been accepted by Findings of EMNLP 2024!
+\[2024.09\] One paper was accepted to Findings of EMNLP 2024!
 
 <br/>
 
