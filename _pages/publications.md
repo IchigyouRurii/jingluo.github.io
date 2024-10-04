@@ -10,7 +10,7 @@ nav-order: -1
 ### PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation
 **Jing Luo**, Run Luo, Longze Chen, Liang Zhu, Chang Ao, Jiaming Li, Yukun Chen, Xin Cheng, Wen Yang, Jiayuan Su, Chengming Li, Min Yang*<br>
 _Preprint_, 2024<br>
-[[Paper](https://arxiv.org/abs/2410.00699)] [[Code](https://github.com/IchigyouRurii/PersonaMath)] [[Dataset](https://huggingface.co/datasets/jingluo/PersonaMathQA)]
+[[Paper](https://arxiv.org/abs/2410.01504)] [[Code](https://github.com/IchigyouRurii/PersonaMath)] [[Dataset](https://huggingface.co/datasets/jingluo/PersonaMathQA)]
 
 ### Investigating the Impact of Model Complexity in Large Language Models
 **Jing Luo**, Huiyuan Wang, Weiran Huang*<br>
