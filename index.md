@@ -12,10 +12,11 @@ author_profile: true
 <br/>
 
 ## Experience
-- 2022.04 - 2023.01, Research Internship, Shandong University, advised by Prof. [Feng Liu](https://liufeng.mysxl.cn/).
-- 2023.02 - 2023.10, Research Internship, Shanghai Jiao Tong University, advised by Prof. [Weiran Huang](https://www.weiranhuang.com/).
-- 2024.01 - 2024.05, Research Internship, University of Illinois Chicago, advised by Prof. [Lu Cheng](https://lcheng.org/).
 - 2024.07 - Present, Research Internship, SIAT, Chinese Academy of Sciences, advised by Prof. [Min Yang](https://minyang.me/).
+- 2024.01 - 2024.05, Research Internship, University of Illinois Chicago, advised by Prof. [Lu Cheng](https://lcheng.org/).
+- 2023.02 - 2023.10, Research Internship, Shanghai Jiao Tong University, advised by Prof. [Weiran Huang](https://www.weiranhuang.com/).
+- 2022.04 - 2023.01, Research Internship, Shandong University, advised by Prof. [Feng Liu](https://liufeng.mysxl.cn/).
+
 
 <br/>
 
